@@ -11,7 +11,7 @@ If instead you want to use the source code and edit it in Unity, download the re
 
 ## License
 
-My Unity Project is released under the [MIT License](LICENSE).
+Flexible Tomato is released under the [MIT License](LICENSE).
 
 ## Video explanation
 [I Made Productivity Software Instead of Working](https://www.youtube.com/watch?v=I9wnx47C50w)
